@@ -1,2 +1,2 @@
 # Arya-LC-SOLS
-My attempts at leetcode problems.
+I LOVE O(N) SOLUTIONS!
