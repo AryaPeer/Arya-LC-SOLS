@@ -1,4 +1,4 @@
 # Arya-LC-SOLS
 I LOVE O(N) SOLUTIONS!
 
-Alot of my solutions are just a naive solution that aren't optimized, unfortunately my optimizations are not uploaded by the extension I use.
+Alot of my solutions are just naive sols that aren't optimized, unfortunately any changes I make after the first sol aren't uploaded by the extension.
